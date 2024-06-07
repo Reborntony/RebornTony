@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reborntony
+- 👋 Hi, I’m @RebornTony
 - 👀 I’m interested in FinTech
 - 🌱 I’m currently learning ai algorithm for trading
 - 💞️ I’m looking to collaborate on this
